@@ -1,1 +1,1 @@
-SPA bilan
+SPA bilan ishlash 

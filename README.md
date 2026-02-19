@@ -1,1 +1,1 @@
-SPA bilan ishlash 
+SPA bilan ishlash code larni 
